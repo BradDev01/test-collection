@@ -1,0 +1,10 @@
+{
+	"image":"https://nft.tonbrad.com/PixelBrad/logo.gif",
+	"cover_image":"https://nft.tonbrad.com/PixelBrad/cover.gif",
+	"name":"PixelBrad",
+	"description":"PixelBrad - a collection of 4444 NFTs created for the TON blockchain by Brad.\n\nEach PixelBrad is a ticket to the NFT-market monitoring service which entitles you to permanent use of the resource; Each NFT has its own rarity and gives certain privileges in our service based on this rarity; Each PixelBrad is a pass to Brad's Closed Community.",
+	"external_link": "https://tonbrad.com",
+	"external_url": "https://tonbrad.com",
+	"social_links":["https://t.me/totkitnews","https://totkit.org/","https://t.me/totkitbot"],
+	"marketplace": "getgems.io"
+}
